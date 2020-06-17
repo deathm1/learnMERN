@@ -1,4 +1,0 @@
-{
-    "mongoURL": "mongodb+srv://sovietspy:blyat123@cluster0-qeip0.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "JWTSecret" : "SovietSpy"
-}
